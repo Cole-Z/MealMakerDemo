@@ -46,3 +46,5 @@ Next, we can filter down even more by search by a name from the previous categor
 
 All data and information is provided from The Meal DB. You can find more information in their docs for more customizations around their API as well as getting an upgraded key for production. 
 
+Credit: https://www.themealdb.com/api.php
+
